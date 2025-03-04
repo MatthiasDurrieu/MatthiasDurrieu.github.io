@@ -26,7 +26,7 @@ I was trained as a biologist in Toulouse III - Paul Sabatier university, where I
 
 Ultimately, my goal is to better understand how a seemingly simple organism can generate a complex and flexible set of behavior, shedding light on a fascinating aspect of animals: their ability to learn and adapt. My hope is that one day my work leads to a better understanding of the computations of learning and memories in biological brains, leading to more efficient and flexible artificial systems.
 
-You can learn more about my projects in the dedicated section : 
+You can learn more about my projects in the dedicated section
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
