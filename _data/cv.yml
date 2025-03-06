@@ -1,97 +1,148 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+education:
+  - institution: Université Toulouse III, Paul Sabatier (UPS)
+    location: Toulouse, France
+    degree: BS Cellular Biology and Physiology
+    years: 2012-2015
+  - institution: Université Toulouse III, Paul Sabatier (UPS)
+    location: Toulouse, France
+    degree: MS Neuroscience Behavior and Cognition
+    years: 2015-2017
+  - institution: Université Toulouse III, Paul Sabatier (UPS)
+    location: Toulouse, France
+    degree: PhD Neuroethology
+    years: Oct 2017 - May 2021
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+experience:
+  - years: 2014-2016
+    title: Summer internship and animal keeper
+    organization: Research Center on Animal Cognition, CNRS
+  - years: 2017
+    title: Masters internship
+    organization: Research Center on Animal Cognition, CNRS
+  - years: 2017-2021
+    title: PhD student
+    organization: Research Center on Animal Cognition, CNRS
+  - years: 2021-Present
+    title: Postdoc
+    organization: Neuroengineering Laboratory, EPFL
+    location: Lausanne, Switzerland
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+awards_fellowships_grants:
+  - years: 2017-2021
+    name: Graduate Research fellowship
+    organization: Toulouse Biology, Health and Biotechnology doctoral school
+    details: 3 years salary
+  - years: 2021
+    name: Thesis prize
+    organization: Société des neurosciences
+    details: 1,000 euros
+  - years: 2021-2023
+    name: Early career postdoctoral fellowship
+    organization: Fyssen Foundation
+    details: 2 years funding
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+teaching_experience:
+  - years: 2016-2020
+    title: Introduction to Animal behavior
+    role: Teaching Assistant, module co-designer
+    institution: UPS, Toulouse
+  - years: 2017-2020
+    title: Behavioral ecology
+    role: Teaching Assistant
+    institution: UPS, Toulouse
+  - years: 2017-2020
+    title: Behavioral Neuroscience
+    role: Teaching Assistant, exam co-designer
+    institution: UPS, Toulouse
+  - years: 2022, 2023
+    title: Introduction to programming in life sciences
+    role: Teaching Assistant
+    institution: EPFL, Lausanne
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+mentoring:
+  - role: PhD, Research Center on Animal Cognition
+    years: 2017-2021
+    details:
+      - Supervised 2 Bachelor interns
+      - Mentored 1 Master intern
+  - role: Postdoc, Neuroengineering Laboratory
+    years: 2021-Present
+    details:
+      - Supervised 2 Bachelor students
+      - Mentored 2 Master students
+      - Mentored 3 Summer Research Internship fellows
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+service:
+  - years: 2018-2020
+    title: PhD students and postdocs representative at the institute council
+    organization: CBI, Toulouse
+  - years: 2022-2024
+    title: President of the EPFL postdoc association
+    organization: EPFL, Lausanne
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+outreach:
+  - years: 2016, 2022
+    event: Brain awareness week
+    role: Presenter
+    organization: EPFL and UPS
+  - years: 2017, 2021
+    event: Guided tour of the Research Center on Animal cognition
+    role: Guide
+    organization: UPS, Toulouse
+  - years: 2020, 2021
+    event: Promotion of careers in sciences ('Déclic' event)
+    role: Presenter
+    organization: Highschools
+  - years: 2023
+    event: EPFL open doors
+    role: Stand presenter
+  - years: 2024
+    event: Promotion of careers in science
+    role: Presenter
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+events_organisation:
+  - years: 2017, 2018
+    event: Phd Students and postdocs yearly symposium
+    role: Organiser
+    organization: Research Center on Animal Cognition, Toulouse
+  - years: 2018
+    event: Annual Biology, Health, Biotechnology doctoral school's communication days
+    role: Organiser
+    organization: Université Paul Sabatier, Toulouse
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+peer_review:
+  - Faculty opinions
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+professional_memberships:
+  - Invertebrate neuroethology society
+  - Société des Neurosciences
+  - Faculty opinions
+
+publications:
+  published:
+    - authors: Muria, A., Musso, P. Y., Durrieu, M., Portugal, F. R., Ronsin, B., Gordon, M. D., Isabel, G.
+      year: 2021
+      title: Social facilitation of long-lasting memory is mediated by CO2 in Drosophila
+      journal: Current Biology
+      volume: 31
+      issue: 10
+      pages: 2065-2074
+    - authors: Durrieu, M., Wystrach, A., Arrufat, P., Giurfa, M., Isabel, G.
+      year: 2020
+      title: Fruit flies can learn non-elemental olfactory discriminations
+      journal: Proceedings of the Royal Society B
+      volume: 287
+      issue: 1938
+      pages: 20201234
+  reviews_and_opinions:
+    - authors: Giurfa, M., Durrieu, M.
+      title: Visually Guided Behavior and Optogenetically Induced Learning in Head-Fixed Flies Exploring a Virtual Landscape
+      journal: Faculty opinions
+      year: 2021
+      doi: 10.3410/f.735694588.793582365
+  in_prep:
+    - authors: Durrieu, M., Giurfa, M., Wystrach, A.*, Isabel, G.*
+      title: How targeted inhibition solves ambiguous learning situations in Drosophila
+    - authors: Durrieu, M., Lobato-Rios, V., Ramdya, P.
+      title: Affordance learning of object manipulation in Drosophila
+
