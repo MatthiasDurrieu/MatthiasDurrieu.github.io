@@ -62,7 +62,6 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -72,6 +71,8 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
+      - name: Update Bundler
+        run: gem install bundler
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -83,6 +84,7 @@ jobs:
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
+          bundle install
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
