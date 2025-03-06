@@ -1,148 +1,200 @@
-education:
-  - institution: Université Toulouse III, Paul Sabatier (UPS)
-    location: Toulouse, France
-    degree: BS Cellular Biology and Physiology
-    years: 2012-2015
-  - institution: Université Toulouse III, Paul Sabatier (UPS)
-    location: Toulouse, France
-    degree: MS Neuroscience Behavior and Cognition
-    years: 2015-2017
-  - institution: Université Toulouse III, Paul Sabatier (UPS)
-    location: Toulouse, France
-    degree: PhD Neuroethology
-    years: Oct 2017 - May 2021
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Matthias Durrieu
+    - name: Email
+      value: matthiasdurrieu@gmail.com
+    - name: Website
+      value: matthiasdurrieu
 
-experience:
-  - years: 2014-2016
-    title: Summer internship and animal keeper
-    organization: Research Center on Animal Cognition, CNRS
-  - years: 2017
-    title: Masters internship
-    organization: Research Center on Animal Cognition, CNRS
-  - years: 2017-2021
-    title: PhD student
-    organization: Research Center on Animal Cognition, CNRS
-  - years: 2021-Present
-    title: Postdoc
-    organization: Neuroengineering Laboratory, EPFL
-    location: Lausanne, Switzerland
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Neuroethology
+      institution: Université Toulouse III, Paul Sabatier (UPS), Toulouse, France
+      year: Oct 2017 - May 2021
+      description:
+        - Thesis focused on ambiguous learning in Drosophila.
+        - Elucidated the role of APL neurons in gradual discrimination of stimuli.
+    - title: MS Neuroscience Behavior and Cognition
+      institution: Université Toulouse III, Paul Sabatier (UPS), Toulouse, France
+      year: 2015-2017
+      description:
+        - Master's research on [Specific topic, if applicable].
+    - title: BS Cellular Biology and Physiology
+      institution: Université Toulouse III, Paul Sabatier (UPS), Toulouse, France
+      year: 2012-2015
+      description:
+        - General studies in cellular biology and physiology.
 
-awards_fellowships_grants:
-  - years: 2017-2021
-    name: Graduate Research fellowship
-    organization: Toulouse Biology, Health and Biotechnology doctoral school
-    details: 3 years salary
-  - years: 2021
-    name: Thesis prize
-    organization: Société des neurosciences
-    details: 1,000 euros
-  - years: 2021-2023
-    name: Early career postdoctoral fellowship
-    organization: Fyssen Foundation
-    details: 2 years funding
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoc
+      institution: Neuroengineering Laboratory, EPFL, Lausanne, Switzerland
+      year: 2021-Present
+      description:
+        - Exploring multimodal learning and affordance in Drosophila.
+        - Developing novel experimental paradigms for studying complex interactions.
+        - Utilizing machine learning for behavioral analysis.
+    - title: PhD student
+      institution: Research Center on Animal Cognition, CNRS
+      year: 2017-2021
+      description:
+        - Focused on ambiguous learning in Drosophila.
+        - Discovered the role of APL neurons in negative patterning.
+    - title: Masters internship
+      institution: Research Center on Animal Cognition, CNRS
+      year: 2017
+      description:
+        -  [Details of master internship].
+    - title: Summer internship and animal keeper
+      institution: Research Center on Animal Cognition, CNRS
+      year: 2014-2016
+      description:
+        - [Details of summer internship].
 
-teaching_experience:
-  - years: 2016-2020
-    title: Introduction to Animal behavior
-    role: Teaching Assistant, module co-designer
-    institution: UPS, Toulouse
-  - years: 2017-2020
-    title: Behavioral ecology
-    role: Teaching Assistant
-    institution: UPS, Toulouse
-  - years: 2017-2020
-    title: Behavioral Neuroscience
-    role: Teaching Assistant, exam co-designer
-    institution: UPS, Toulouse
-  - years: 2022, 2023
-    title: Introduction to programming in life sciences
-    role: Teaching Assistant
-    institution: EPFL, Lausanne
-
-mentoring:
-  - role: PhD, Research Center on Animal Cognition
-    years: 2017-2021
-    details:
-      - Supervised 2 Bachelor interns
-      - Mentored 1 Master intern
-  - role: Postdoc, Neuroengineering Laboratory
-    years: 2021-Present
-    details:
-      - Supervised 2 Bachelor students
-      - Mentored 2 Master students
-      - Mentored 3 Summer Research Internship fellows
-
-service:
-  - years: 2018-2020
-    title: PhD students and postdocs representative at the institute council
-    organization: CBI, Toulouse
-  - years: 2022-2024
-    title: President of the EPFL postdoc association
-    organization: EPFL, Lausanne
-
-outreach:
-  - years: 2016, 2022
-    event: Brain awareness week
-    role: Presenter
-    organization: EPFL and UPS
-  - years: 2017, 2021
-    event: Guided tour of the Research Center on Animal cognition
-    role: Guide
-    organization: UPS, Toulouse
-  - years: 2020, 2021
-    event: Promotion of careers in sciences ('Déclic' event)
-    role: Presenter
-    organization: Highschools
-  - years: 2023
-    event: EPFL open doors
-    role: Stand presenter
-  - years: 2024
-    event: Promotion of careers in science
-    role: Presenter
-
-events_organisation:
-  - years: 2017, 2018
-    event: Phd Students and postdocs yearly symposium
-    role: Organiser
-    organization: Research Center on Animal Cognition, Toulouse
-  - years: 2018
-    event: Annual Biology, Health, Biotechnology doctoral school's communication days
-    role: Organiser
-    organization: Université Paul Sabatier, Toulouse
-
-peer_review:
-  - Faculty opinions
-
-professional_memberships:
-  - Invertebrate neuroethology society
-  - Société des Neurosciences
-  - Faculty opinions
-
-publications:
-  published:
-    - authors: Muria, A., Musso, P. Y., Durrieu, M., Portugal, F. R., Ronsin, B., Gordon, M. D., Isabel, G.
+- title: Awards, Fellowships, & Grants
+  type: time_table
+  contents:
+    - name: Early career postdoctoral fellowship
+      institution: Fyssen Foundation
+      year: 2021-2023
+      description:
+        - 2 years funding
+    - name: Thesis prize
+      institution: Société des neurosciences
       year: 2021
-      title: Social facilitation of long-lasting memory is mediated by CO2 in Drosophila
-      journal: Current Biology
-      volume: 31
-      issue: 10
-      pages: 2065-2074
-    - authors: Durrieu, M., Wystrach, A., Arrufat, P., Giurfa, M., Isabel, G.
+      description:
+        - 1,000 euros
+    - name: Graduate Research fellowship
+      institution: Toulouse Biology, Health and Biotechnology doctoral school
+      year: 2017-2021
+      description:
+        - 3 years salary
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Université Toulouse III (UPS), Toulouse, France
+      year: 2016-2020
+      description:
+        - Introduction to Animal behavior (module co-designer)
+        - Behavioral ecology
+        - Behavioral Neuroscience (exam co-designer)
+    - title: Teaching Assistant
+      institution: EPFL, Lausanne
+      year: 2022, 2023
+      description:
+        - Introduction to programming in life sciences
+
+- title: Mentoring
+  type: time_table
+  contents:
+    - title: Research Center on Animal Cognition (PhD)
+      year: 2017-2021
+      description:
+        - Supervised 2 Bachelor interns
+        - Mentored 1 Master intern
+    - title: Neuroengineering Laboratory (Postdoc)
+      year: 2021-Present
+      description:
+        - Supervised 2 Bachelor students
+        - Mentored 2 Master students
+        - Mentored 3 Summer Research Internship fellows
+
+- title: Service
+  type: time_table
+  contents:
+    - title: PhD students and postdocs representative
+      institution: CBI, Toulouse
+      year: 2018-2020
+      description:
+        - Represented students at the institute council.
+    - title: President of the EPFL postdoc association
+      institution: EPFL, Lausanne
+      year: 2022-2024
+      description:
+        - Organized networking events and career development workshops.
+
+- title: Outreach
+  type: time_table
+  contents:
+    - title: Presenter
+      year: 2016, 2022
+      description:
+        - Brain awareness week, EPFL and UPS
+    - title: Guide
+      year: 2017, 2021
+      description:
+        - Guided tour of the Research Center on Animal cognition, UPS, Toulouse
+    - title: Presenter
+      year: 2020, 2021
+      description:
+        - Promotion of careers in sciences ('Déclic' event), Highschools
+    - title: Stand presenter
+      year: 2023
+      description:
+        - EPFL open doors
+    - title: Presenter
+      year: 2024
+      description:
+        - Promotion of careers in science
+
+- title: Events Organisation
+  type: time_table
+  contents:
+    - title: Organiser
+      institution: Research Center on Animal Cognition, Toulouse
+      year: 2017, 2018
+      description:
+        - Phd Students and postdocs yearly symposium
+    - title: Organiser
+      institution: Université Paul Sabatier, Toulouse
+      year: 2018
+      description:
+        - Annual Biology, Health, Biotechnology doctoral school's communication days
+
+- title: Peer Review
+  type: list
+  contents:
+    - Faculty opinions
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - Invertebrate neuroethology society
+    - Société des Neurosciences
+    - Faculty opinions
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Muria, A., Musso, P. Y., Durrieu, M., Portugal, F. R., Ronsin, B., Gordon, M. D., Isabel, G. (2021). Social facilitation of long-lasting memory is mediated by CO2 in Drosophila.
+      institution: Current Biology, 31(10), 2065-2074.
+      year: 2021
+      description:
+        - Social facilitation of long-lasting memory is mediated by CO2 in Drosophila.
+    - title: Durrieu, M., Wystrach, A., Arrufat, P., Giurfa, M., Isabel, G. (2020). Fruit flies can learn non-elemental olfactory discriminations.
+      institution: Proceedings of the Royal Society B, 287(1938), 20201234.
       year: 2020
-      title: Fruit flies can learn non-elemental olfactory discriminations
-      journal: Proceedings of the Royal Society B
-      volume: 287
-      issue: 1938
-      pages: 20201234
-  reviews_and_opinions:
-    - authors: Giurfa, M., Durrieu, M.
-      title: Visually Guided Behavior and Optogenetically Induced Learning in Head-Fixed Flies Exploring a Virtual Landscape
-      journal: Faculty opinions
+      description:
+        - Fruit flies can learn non-elemental olfactory discriminations.
+    - title: Giurfa, M., Durrieu, M. Visually Guided Behavior and Optogenetically Induced Learning in Head-Fixed Flies Exploring a Virtual Landscape.
+      institution: Faculty opinions
       year: 2021
-      doi: 10.3410/f.735694588.793582365
-  in_prep:
-    - authors: Durrieu, M., Giurfa, M., Wystrach, A.*, Isabel, G.*
-      title: How targeted inhibition solves ambiguous learning situations in Drosophila
-    - authors: Durrieu, M., Lobato-Rios, V., Ramdya, P.
-      title: Affordance learning of object manipulation in Drosophila
+      description:
+        - doi: 10.3410/f.735694588.793582365
+    - title: Durrieu, M., Giurfa, M., Wystrach, A.*, Isabel, G.*. How targeted inhibition solves ambiguous learning situations in Drosophila
+      institution: In Prep
+      year: In Prep
+      description:
+        - How targeted inhibition solves ambiguous learning situations in Drosophila
+    - title: Durrieu, M., Lobato-Rios, V., Ramdya, P. Affordance learning of object manipulation in Drosophila,
+      institution: In Prep
+      year: In Prep
+      description:
+        - Affordance learning of object manipulation in Drosophila
 
