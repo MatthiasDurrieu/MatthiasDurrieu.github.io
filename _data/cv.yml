@@ -21,7 +21,7 @@
       institution: Université Toulouse III, Paul Sabatier (UPS), Toulouse, France
       year: 2015-2017
       description:
-        - Master's research on [Specific topic, if applicable].
+        - Master's research focused on neural mechanisms of behavior.
     - title: BS Cellular Biology and Physiology
       institution: Université Toulouse III, Paul Sabatier (UPS), Toulouse, France
       year: 2012-2015
@@ -53,7 +53,7 @@
       institution: Research Center on Animal Cognition, CNRS
       year: 2014-2016
       description:
-        - Studied the role of a glial transcription factor in the formation of Long Term Memory (LTM). Participated to the implementation of a calcium imaging paradigm in the lab.
+        - Studied the role of a glial transcription factor in the formation of Long Term Memory (LTM). Participated in the implementation of a calcium imaging paradigm in the lab.
 
 - title: Awards, Fellowships, & Grants
   type: time_table
@@ -150,7 +150,7 @@
       institution: Research Center on Animal Cognition, Toulouse
       year: 2017, 2018
       description:
-        - Phd Students and postdocs yearly symposium
+        - PhD Students and postdocs yearly symposium
     - title: Organiser
       institution: Université Paul Sabatier, Toulouse
       year: 2018
@@ -173,28 +173,27 @@
   type: time_table
   contents:
     - title: Muria, A., Musso, P. Y., Durrieu, M., Portugal, F. R., Ronsin, B., Gordon, M. D., Isabel, G. (2021). Social facilitation of long-lasting memory is mediated by CO2 in Drosophila.
-      institution: Current Biology, 31(10), 2065-2074.
+      institution: Current Biology
       year: 2021
       description:
         - Social facilitation of long-lasting memory is mediated by CO2 in Drosophila.
     - title: Durrieu, M., Wystrach, A., Arrufat, P., Giurfa, M., Isabel, G. (2020). Fruit flies can learn non-elemental olfactory discriminations.
-      institution: Proceedings of the Royal Society B, 287(1938), 20201234.
+      institution: Proceedings of the Royal Society B
       year: 2020
       description:
         - Fruit flies can learn non-elemental olfactory discriminations.
     - title: Giurfa, M., Durrieu, M. Visually Guided Behavior and Optogenetically Induced Learning in Head-Fixed Flies Exploring a Virtual Landscape.
-      institution: Faculty opinions
+      institution: Faculty Opinions
       year: 2021
       description:
         - doi: 10.3410/f.735694588.793582365
     - title: Durrieu, M., Giurfa, M., Wystrach, A.*, Isabel, G.*. How targeted inhibition solves ambiguous learning situations in Drosophila
-      institution: In Prep
-      year: In Prep
+      institution: In Preparation
+      year: In Preparation
       description:
         - How targeted inhibition solves ambiguous learning situations in Drosophila
     - title: Durrieu, M., Lobato-Rios, V., Ramdya, P. Affordance learning of object manipulation in Drosophila,
-      institution: In Prep
-      year: In Prep
+      institution: In Preparation
+      year: In Preparation
       description:
         - Affordance learning of object manipulation in Drosophila
-
