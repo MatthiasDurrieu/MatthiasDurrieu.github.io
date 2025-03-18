@@ -41,9 +41,7 @@
       "startDate": "2017-10-01",
       "endDate": "2021-05-01",
       "summary": "Focused on ambiguous learning in Drosophila.",
-      "highlights": [
-        "Discovered the role of APL neurons in negative patterning."
-      ]
+      "highlights": ["Discovered the role of APL neurons in negative patterning."]
     },
     {
       "name": "Research Center on Animal Cognition, CNRS",
@@ -52,9 +50,7 @@
       "startDate": "2017-01-01",
       "endDate": "2017-12-31",
       "summary": "Adapted the classical T-Maze paradigm for olfactory conditioning.",
-      "highlights": [
-        "Uncovered the role of APL neurons in Negative Feature discrimination."
-      ]
+      "highlights": ["Uncovered the role of APL neurons in Negative Feature discrimination."]
     },
     {
       "name": "Research Center on Animal Cognition, CNRS",
@@ -63,9 +59,7 @@
       "startDate": "2014-01-01",
       "endDate": "2016-12-31",
       "summary": "Studied the role of a glial transcription factor in LTM formation.",
-      "highlights": [
-        "Participated in implementing a calcium imaging paradigm."
-      ]
+      "highlights": ["Participated in implementing a calcium imaging paradigm."]
     }
   ],
   "volunteer": [
@@ -179,11 +173,7 @@
     {
       "name": "Neuroscience",
       "level": "Master",
-      "keywords": [
-        "Neuroethology",
-        "Behavioral Neuroscience",
-        "Machine Learning"
-      ]
+      "keywords": ["Neuroethology", "Behavioral Neuroscience", "Machine Learning"]
     }
   ],
   "languages": [
@@ -199,10 +189,7 @@
   "interests": [
     {
       "name": "Neuroscience",
-      "keywords": [
-        "Neuroethology",
-        "Behavioral Neuroscience"
-      ]
+      "keywords": ["Neuroethology", "Behavioral Neuroscience"]
     }
   ],
   "references": []
