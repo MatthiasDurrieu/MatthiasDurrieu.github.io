@@ -32,14 +32,14 @@ We identified the Anterior Paired Lateral (APL) neurons as critical components f
 
 
     
-        {% include figure.liquid path="assets/img/apl_neurons.jpg" title="APL neurons" class="img-fluid rounded z-depth-1" %}
-    
-    
-        {% include figure.liquid path="assets/img/learning_curve.jpg" title="Learning curve" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/apl_neurons.jpg" title="APL neurons" class="img-fluid rounded z-depth-1" %}
+
+
+{% include figure.liquid path="assets/img/learning_curve.jpg" title="Learning curve" class="img-fluid rounded z-depth-1" %}
     
 
 
-    Left: APL neurons (green) providing inhibitory feedback to the Mushroom Bodies. Right: Learning acquisition curve showing gradual mastery of negative patterning.
+Left: APL neurons (green) providing inhibitory feedback to the Mushroom Bodies. Right: Learning acquisition curve showing gradual mastery of negative patterning.
 
 
 ## Computational Model
